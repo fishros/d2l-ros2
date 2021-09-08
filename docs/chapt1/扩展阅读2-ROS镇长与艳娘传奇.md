@@ -110,15 +110,12 @@ ROS2还从外面引进了电话（DDS服务），给每个村民都免费装上�
 > 可以看一下这篇文章（顺便关注一下小鱼的知乎，谢谢啦）：[https://zhuanlan.zhihu.com/p/390607053](https://zhuanlan.zhihu.com/p/390607053)
 
 
+------
 
-## 8 写在最后
+技术交流&&问题求助：
 
-**我是小鱼，机器人领域资深玩家，现深圳某独脚兽机器人算法工程师一枚**
+- QQ交流群：139707339
 
-**初中学习编程，高中开始学习机器人，大学期间打机器人相关比赛实现月入2W+（比赛奖金）**
+- 微信公众号：鱼香ROS
 
-**目前在输出机器人学习指南、论文注解、工作经验，欢迎大家关注小鱼，一起交流技术，学习机器人**
-
-
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210714103924121.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI3ODY1MjI3,size_16,color_FFFFFF,t_70#pic_center)
+- 小鱼微信：AiIotRobot
