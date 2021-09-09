@@ -16,18 +16,32 @@ ROS2作为第二代机器人操作系统，比ROS更加的强大，有一些在R
 
 本课程为机器人学习实践基础课程，可以为您进一步学习机器人技术奠定基础，比如：
 
-- 基于ROS2的移动机器人导航仿真
-- 基于ROS2的Moveit2的机械臂运动规划
-- 基于ROS2的多机器人协同研究等。
+- 基于ROS2的移动机器人导航仿真（https://www.bilibili.com/video/BV1Ef4y1P7wt/）
+
+  <img src="docs/README/imgs/image-20210909223017544.png" alt="image-20210909223017544" style="zoom: 25%;" />
+
+- 基于ROS2的Moveit2的机械臂运动规划（https://mp.weixin.qq.com/s/Lx-xLO_C9NKxCcRBHj2gUw）
+
+<img src="docs/README/imgs/image-20210909222841288.png" alt="image-20210909222841288" style="zoom: 25%;" />
+
+- 基于ROS2的多机器人协同研究（https://osrf.github.io/ros2multirobotbook/intro.html）等
+
+  <img src="docs/README/imgs/image-20210909222922141.png" alt="image-20210909222922141" style="zoom: 33%;" />
 
 在本课程中你可以收获以下知识：
 
 - 掌握ROS2的概念，了解ROS2和ROS1之间的异同
+
 - 掌握安装Ubuntu系统和ROS2
+
 - 掌握ROS2节点和工作空间概念及编译工具的使用
+
 - 学会编写ROS2的C++和Python节点
+
 - 掌握ROS2话题和服务通信机制以及Python和C++实现
+
 - 掌握ROS2参数通信机制并了解Action通信机制
+
 - 掌握ROS2常用工具如RQT、ROS2bag、ROS2launch等
 
 
@@ -54,9 +68,10 @@ ROS2作为第二代机器人操作系统，比ROS更加的强大，有一些在R
 如果没有任何编程基础的小伙伴，可以简单的学习一下Python语言，两三天就可以上岗了。
 
 
-## 4.课程目录
+## 4.课程介绍
 
-## 4.1 一期课程 
+### 4.1 课程规划
+#### 4.1.1 一期课程 
 ##### 本教程一期为1到6章为基础环节，主要介绍了ROS2的基本使用
 
 
@@ -68,33 +83,45 @@ ROS2作为第二代机器人操作系统，比ROS更加的强大，有一些在R
 - 第 6 章 ROS2工具介绍
 
 
-### 4.2 二期课程安排
+#### 4.1.2 二期课程安排
 
-#### 4.2.1 机器人进阶环节
+#####  机器人进阶环节
 
 - 第 7 章 机器人基础
 - 第 8 章 机器人建模
 - 第 9 章 机器人仿真
 
-##### 4.2.2 教程10到11章为实战环节
+##### 10到11章为实战环节
 
 - 第 10 章 综合案例一：SLAM导航仿真
 - 第 11 章 综合案例二：MoveIt机械臂建模
+
+
+### 4.2 软件版本
+
+- ROS2版本：foxy
+- 系统版本：Ubuntu20.04
 
 
 ### 5.关于小鱼
 
 小鱼目前主要在做基于ROS的复合机器人相关的工作，坐标深圳，有时间的小伙伴周末一起来喝个茶。
 
+同时这也是小鱼第一次录制系列性的课程，有不足之处还请大家多多包涵！
+
+因为制作时间仓促和作者个人能力有限，教程之中难免有错误之处，如果你有发现请联系小鱼，小鱼将第一时间修正。
+
 最后欢迎关注小鱼的微信公众号《鱼香ROS》，和小鱼一起学习ROS2。公众号下方有小鱼的个人微信和机器人技术交流群，有问题可以联系。
 
-![](D:/d2l-ros2/docs/README/imgs/image-20210726192026520.png)
+![](/README/imgs/image-20210726192026520.png)
 
 
 #### 参考资料
 
 - ROS2官方文档：http://docs.ros.org/en/foxy/index.html
-- ROS2教学视频：https://www.bilibili.com/video/
+- ROS2教学视频：https://www.bilibili.com/video/BV19U4y1n7CQ
+
+
 
 ------
 
