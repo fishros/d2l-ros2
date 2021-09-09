@@ -1,6 +1,6 @@
-# 2.6 常规操作&&骚操作
+# 扩展资料5：ssh与xterm
 
-## 1. 系统之间传文件方法
+## 1.ssh
 
 给ubuntu安装ssh-server
 

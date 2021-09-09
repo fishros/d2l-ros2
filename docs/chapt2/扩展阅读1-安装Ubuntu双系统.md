@@ -1,4 +1,11 @@
-# 使用双系统安装Ubuntu
+# 扩展阅读1：使用双系统安装Ubuntu
+
+在群里看到群友分享的其他详细安装教程，这里小鱼也分享一下：
+
+- [UBUNTU双系统安装教程](https://mp.weixin.qq.com/s?__biz=MzI4OTg4OTA0NA==&mid=2247485962&idx=1&sn=db5d858d8cee0463d33c46af7297a650&chksm=ec290471db5e8d6764baa3bb32a626a05c101c5292f09e690587808ee6389f6d3605937d32b1&mpshare=1&scene=23&srcid=0808lbEv8bK6J8l3zqWVumqI&sharer_sharetime=1631118708526&sharer_shareid=349e36b4db668527affa7ccd00962cf9#rd)
+- [WIN10安装ubuntu双系统教程（超详细）](https://mp.weixin.qq.com/s?__biz=MzIzODQzMjI4NA==&mid=2247483965&idx=1&sn=2abf6756611c9c7b7b542e6202d33f76&chksm=e9383b4ede4fb2585d1fc85ae734ccef1ff5c2d86f271d62ce5cfd5f0da0f01c22b43e3b14e5&mpshare=1&scene=23&srcid=0808GdmWmqzt5JjBjlDXjRXn&sharer_sharetime=1631118732579&sharer_shareid=349e36b4db668527affa7ccd00962cf9#rd)
+
+接着是小鱼的不完全教程
 
 这节给大家讲一讲如何使用双系统的方式安装ubuntu，毕竟虚拟机还是虚拟的，是两个系统在分硬件资源，有时候会卡到怀疑人生，所以本节小鱼就给大家讲一讲如何安装双系统。
 

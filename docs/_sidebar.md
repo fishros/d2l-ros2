@@ -1,5 +1,4 @@
-- [动手学ROS2-Foxy](README.md)
-
+<!-- - [动手学ROS2-Foxy](README.md) -->
 - 第 1 章 ROS2介绍
   - [第1章 章节介绍](chapt1/章节介绍.md)
   - [1.1 ROS2的前世今生](chapt1/1.1ROS2的前世今生.md) 
@@ -20,7 +19,7 @@
     -  [扩展阅读2:Linux常用指令](chapt2/扩展阅读2-Linux常用指令.md) 
     -  [扩展资料3:搜狗拼音输入法](chapt2/扩展资料3-搜狗拼音输入法.md) 
     -  [扩展资料4:Git介绍安装](chapt2/扩展资料4-Git介绍安装.md) 
-    -  [扩展资料5:ssh安装](chapt2/扩展资料5-ssh安装.md) 
+    <!-- -  [扩展资料5:ssh安装](chapt2/扩展资料5-ssh安装.md)  -->
 
 - 第 3 章 动手学ROS2基础
   - [第3章 章节介绍](chapt3/章节介绍.md) 
