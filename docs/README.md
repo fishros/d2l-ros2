@@ -18,15 +18,15 @@ ROS2作为第二代机器人操作系统，比ROS更加的强大，有一些在R
 
 - 基于ROS2的移动机器人导航仿真 https://www.bilibili.com/video/BV1Ef4y1P7wt/
 
-  <img src="docs/README/imgs/image-20210909222841288.png" alt="image-20210909222841288" style="zoom: 25%;" /> 
+  <img src="README/imgs/image-20210909222841288.png" alt="image-20210909222841288" style="zoom: 25%;" />
 
 - 基于ROS2的Moveit2的机械臂运动规划https://mp.weixin.qq.com/s/Lx-xLO_C9NKxCcRBHj2gUw
 
-  <img src="docs/README/imgs/image-20210909223017544.png" alt="image-20210909223017544" style="zoom: 25%;" />
+  <img src="README/imgs/image-20210909223017544.png" alt="image-20210909223017544" style="zoom: 25%;" />
 
 - 基于ROS2的多机器人协同研究 https://osrf.github.io/ros2multirobotbook/intro.html 等
 
-  <img src="docs/README/imgs/image-20210909222922141.png" alt="image-20210909222922141" style="zoom: 33%;" />
+  <img src="README/imgs/image-20210909222922141.png" alt="image-20210909222922141" style="zoom: 33%;" />
 
 在本课程中你可以收获以下知识：
 
