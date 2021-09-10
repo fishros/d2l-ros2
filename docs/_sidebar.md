@@ -1,4 +1,3 @@
-<!-- - [动手学ROS2-Foxy](README.md) -->
 - 第 1 章 ROS2介绍
   - [第1章 章节介绍](chapt1/章节介绍.md)
   - [1.1 ROS2的前世今生](chapt1/1.1ROS2的前世今生.md) 
