@@ -94,7 +94,6 @@ ROS2作为第二代机器人操作系统，比ROS更加的强大，有一些在R
 #### 参考资料
 
 - ROS2官方文档：http://docs.ros.org/en/foxy/index.html
-- ROS2教学视频：https://www.bilibili.com/video/
 
 ------
 
