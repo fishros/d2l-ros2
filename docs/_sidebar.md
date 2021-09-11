@@ -12,7 +12,7 @@
   - [2.1 安装虚拟机和Ubuntu](chapt2/2.1系统安装_虚拟机版本.md)  
   - [2.2 安装ROS2](chapt2/2.3ROS2的安装.md) 
   - [2.3 动手玩ROS2](chapt2/2.4动手玩ROS2.md)  
-  - [2.4 VsCode编译器安装与配置](chapt2/2.5VsCode编译器安装与配置.md) 
+  - [2.4 VsCode编辑器安装与配置](chapt2/2.5VsCode编译器安装与配置.md) 
   - 扩展阅读
     -  [扩展阅读1:安装Ubuntu双系统](chapt2/扩展阅读1-安装Ubuntu双系统.md) 
     -  [扩展阅读2:Linux常用指令](chapt2/扩展阅读2-Linux常用指令.md) 
