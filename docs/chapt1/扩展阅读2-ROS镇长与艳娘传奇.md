@@ -114,7 +114,7 @@ ROS2还从外面引进了电话（DDS服务），给每个村民都免费装上�
 
 技术交流&&问题求助：
 
-- 课程合作：[睿慕课](https://www.aiimooc.com/)
+- 课程合作：[睿慕课](https://www.aiimooc.com/mall/preshow-htm-itemid-705.html)
 
 - 微信公众号：鱼香ROS
 
