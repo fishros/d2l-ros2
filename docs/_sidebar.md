@@ -71,13 +71,11 @@
     -  [5.7 Action服务端Python实现](chapt5/5.7Action服务端Python实现.md) 
     -  [5.8 Action客户端Python实现](chapt5/5.8Action客户端Python实现.md) 
   -  [5.5 ROS2通信机制总结篇](chapt5/5.9ROS2通信机制大总结.md) 
-  <!-- -  [源码篇-参数源码](chapt5/源码篇-参数源码.md)  -->
-  <!-- -  [源码篇-Action源码](chapt5/源码篇-Action源码.md)  -->
 - 第 6 章 动手学ROS2常用工具
   -  [章节介绍](chapt6/章节介绍.md) 
   -  [6.1 ROS2接点管理之launch文件](chapt6/6.1ROS2接点管理之launch文件.md) 
   -  [6.2 时光记录仪之rosbag2](chapt6/6.2时光记录仪之rosbag2.md) 
   -  [6.3 RQT工具](chapt6/6.3RQT工具.md) 
-  -  [6.4 RVIZ2](chapt6/6.4RVIZ2.md) 
-  -  [6.5 ROS2常用指令](chapt6/6.5ROS2常用指令.md) 
-  -  [6.6 gazebo介绍](chapt6/6.6gazebo介绍.md) 
+  -  [6.4 RVIZ2介绍](chapt6/6.4RVIZ2.md) 
+  -  [6.5 Gazebo介绍](chapt6/6.5Gazebo介绍.md) 
+  -  [6.6 ROS2命令行工具总结](chapt6/6.6ROS2命令行工具.md) 
