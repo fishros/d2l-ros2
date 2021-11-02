@@ -79,3 +79,16 @@
   -  [6.4 RVIZ2介绍](chapt6/6.4RVIZ2.md) 
   -  [6.5 Gazebo介绍](chapt6/6.5Gazebo介绍.md) 
   -  [6.6 ROS2命令行工具总结](chapt6/6.6ROS2命令行工具.md) 
+
+- 第 7 章 动手学机器人学基础
+
+  -  [章节介绍](chapt7/章节介绍.md) 
+  -  7.1 数学基础
+     -  [7.1.1数学基础](chapt7/7.1.1数学基础.md)
+     -  [7.1.2Conda,Jupyter与ROS](chapt7/7.1.2Conda,Jupyter与ROS2.md)
+     -  [7.1.3动手学数学基础](chapt7/7.1.3动手学数学基础.md)
+  -  7.2 空间坐标描述
+     -  [7.2.1空间坐标描述](chapt7/7.2.1空间坐标描述.md)
+
+  
+
