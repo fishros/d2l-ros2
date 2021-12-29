@@ -2,6 +2,10 @@
 
 各位同学大家好，我是小鱼，从今天开始就和小鱼一起动手学习机器人、学习ROS2。
 
+
+> 小鱼录制的配套视频地址:<iframe height="400" width="600" src="//player.bilibili.com/player.html?aid=764419101&bvid=BV1gr4y1Q7j5&cid=448791033&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="false"> </iframe>
+
+
 ## 1.为什么要学习ROS2？
 
 随着智能制造2025的到来，国内机器人行业也随之兴起，越来越多的小伙伴接触并学习了ROS，国内关于ROS的教程也越来越多。
