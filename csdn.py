@@ -1,3 +1,4 @@
+# encoding:utf-8
 import os
 import sys
 from urllib.parse import quote
@@ -16,7 +17,7 @@ def find_replace(file):
             # print("文件名字",file_name,"章节名字",chapt_name)
             old = "]("+file_name
             new = "]("+"http://fishros.com/d2lros2foxy/"+chapt_name+"/"+quote(file_name)
-            with open(file_path) as f:
+            with open(file_path,encoding='utf-8') as f:
                 data = f.read()
                 if data.find(old) > -1:
                     print("发现，准备替换：%s" % file_path)
@@ -40,7 +41,7 @@ def find_replace(file):
 **目前在输出机器人学习指南、论文注解、工作经验，欢迎大家关注小鱼，一起交流技术，学习机器人**
                             """
                 print(data)
-                with open(file_path,"w") as f:
+                with open(file_path,"w",encoding='utf-8') as f:
                     f.write(data)
                         
       # 遍历所有的文件夹
