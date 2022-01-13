@@ -89,7 +89,7 @@ ROS2作为第二代机器人操作系统，比ROS更加的强大，有一些在R
 
 做一个移动小车很贵很难吗？小鱼教你如何打破魔咒，价格小几百元移动机器人fishbot即将发布。
 
-<img src="docs/README/imgs/image-20211124001841727.png" alt="image-20211124001841727" style="zoom: 50%;" />
+<img src="docs/README/imgs/image-20220113094606907.png" alt="image-20211124001841727" style="zoom:90%;" />
 
 ## 6.学习资源
 
@@ -134,5 +134,4 @@ ROS2作为第二代机器人操作系统，比ROS更加的强大，有一些在R
 - **微信公众号及交流群：鱼香ROS**
 - **小鱼微信：AiIotRobot**
 - **QQ交流群：139707339**
-
 
