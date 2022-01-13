@@ -10,17 +10,18 @@ def find_replace(file):
           is_file = False
           file_path = os.path.join(root, f)
           if file_path.endswith(".md"):
-            # print("markdown",file_path)
-            file_name = file_path.replace(".md","")[file_path.rfind("/")+1:]
-            chapt_name = file_path[file_path.find("/")+1:file_path.rfind("/")]
-            
+            print("markdown",file_path)
+            file_name = file_path.replace(".md","")[file_path.rfind("\\")+1:]
+            chapt_name = file_path[file_path.find("/")+1:file_path.rfind("\\")]
+            print(file_name)
             # print("文件名字",file_name,"章节名字",chapt_name)
             old = "]("+file_name
             new = "]("+"http://fishros.com/d2lros2foxy/"+chapt_name+"/"+quote(file_name)
+            print(old,new)
             with open(file_path,encoding='utf-8') as f:
                 data = f.read()
                 if data.find(old) > -1:
-                    print("发现，准备替换：%s" % file_path)
+                    # print("发现，准备替换：%s" % file_path)
                     data = data.replace(old,new)
                 data = "《动手学ROS2》"+file_name+\
                 """
@@ -40,7 +41,7 @@ def find_replace(file):
 **初中学习编程，高中开始接触机器人，大学期间打机器人相关比赛实现月入2W+（比赛奖金）**
 **目前在输出机器人学习指南、论文注解、工作经验，欢迎大家关注小鱼，一起交流技术，学习机器人**
                             """
-                print(data)
+                # print(data)
                 with open(file_path,"w",encoding='utf-8') as f:
                     f.write(data)
                         
@@ -59,4 +60,4 @@ def find_replace(file):
 #         f.write(data)
 
 
-find_replace("docs/")
+find_replace("docs/chapt7")
