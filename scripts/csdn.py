@@ -16,7 +16,7 @@ def find_replace(file):
             print(file_name)
             # print("文件名字",file_name,"章节名字",chapt_name)
             old = "]("+file_name
-            new = "]("+"http://fishros.com/d2lros2foxy/"+chapt_name+"/"+quote(file_name)
+            new = "]("+"http://fishros.com/d2lros2foxy/"+chapt_name[4:]+"/"+quote(file_name)
             print(old,new)
             with open(file_path,encoding='utf-8') as f:
                 data = f.read()
@@ -60,4 +60,4 @@ def find_replace(file):
 #         f.write(data)
 
 
-find_replace("docs/chapt7")
+find_replace("../docs/chapt8")
