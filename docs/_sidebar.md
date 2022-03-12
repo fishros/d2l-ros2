@@ -6,7 +6,6 @@
     - [扩展阅读1:ROS2中间件](chapt1/扩展阅读1-ROS2中间件.md) 
     - [扩展阅读2:ROS镇长与艳娘传奇](chapt1/扩展阅读2-ROS镇长与艳娘传奇.md) 
     - [扩展阅读3:ROS2VSROS详细对比](chapt1/扩展阅读3-ROS2VSROS详细对比.md) 
-  
 - 第 2 章 准备环境与安装ROS2 
   - [第2章 章节介绍](chapt2/章节介绍.md) 
   - [2.1 安装虚拟机和Ubuntu](chapt2/2.1系统安装_虚拟机版本.md)  
@@ -19,7 +18,6 @@
     -  [扩展资料3:搜狗拼音输入法](chapt2/扩展资料3-搜狗拼音输入法.md) 
     -  [扩展资料4:Git介绍安装](chapt2/扩展资料4-Git介绍安装.md) 
     -  [扩展资料5:ssh安装](chapt2/扩展资料5-ssh安装.md) 
-
 - 第 3 章 动手学ROS2基础
   - [第3章 章节介绍](chapt3/章节介绍.md) 
   - [3.1 ROS2节点介绍](chapt3/3.1ROS2节点介绍.md)
@@ -60,7 +58,6 @@
     - [小练习1：自定义话题通信(python)](chapt4/4.11自定义话题通信(python).md) 
   - 扩展阅读
     - [扩展阅读1：原始数据类型与包装类型](chapt4/4.13扩展阅读原始数据类型与包装类型.md) 
-  
 - 第 5 章 通信机制下(参数与Action)
   -  [章节介绍](chapt5/章节介绍.md)  
   -  [5.1 ROS2参数介绍](chapt5/5.1ROS2参数介绍.md) 
@@ -72,7 +69,6 @@
     -  [5.7 Action服务端Python实现](chapt5/5.7Action服务端Python实现.md) 
     -  [5.8 Action客户端Python实现](chapt5/5.8Action客户端Python实现.md) 
   -  [5.5 ROS2通信机制总结篇](chapt5/5.9ROS2通信机制大总结.md) 
-
 - 第 6 章 动手学ROS2常用工具
   -  [章节介绍](chapt6/章节介绍.md) 
   -  [6.1 ROS2接点管理之launch文件](chapt6/6.1ROS2接点管理之launch文件.md) 
@@ -81,9 +77,7 @@
   -  [6.4 RVIZ2介绍](chapt6/6.4RVIZ2.md) 
   -  [6.5 Gazebo介绍](chapt6/6.5Gazebo介绍.md) 
   -  [6.6 ROS2命令行工具总结](chapt6/6.6ROS2命令行工具.md) 
-
 - 第 7 章 动手学机器人学基础
-
   -  [章节介绍](chapt7/章节介绍.md) 
   -  [7.1.1数学基础](chapt7/7.1.1数学基础.md)
   -  [7.1.2Conda,Jupyter与ROS](chapt7/7.1.2Conda,Jupyter与ROS2.md)
@@ -98,20 +92,15 @@
 
 - 第 8 章 动手学机器人建模
   - [章节介绍](chapt8/章节介绍.md) 
-  -  [8.1URDF统一机器人建模语言](chapt8/8.1URDF统一机器人建模语言.md)
-  -  [8.2RVIZ2可视化移动机器人模型](chapt8/8.2RVIZ2可视化移动机器人模型.md) 
-  -  [8.3动手创建一个移动机器人](chapt8/8.3动手创建一个移动机器人.md) 
-  -  [8.4控制移动机器人轮子运动](chapt8/8.4控制移动机器人轮子运动.md) 
-  -  [8.5通过TF控制机器人的位置](chapt8/8.5通过TF控制机器人的位置.md) 
-  -  [8.6练习-动手创建一个机械臂模型](chapt8/8.6练习-动手创建一个机械臂模型.md) 
-  -  [8.7练习-RVIZ2可视化移动机器人模型](chapt8/8.7练习-RVIZ2可视化移动机器人模型.md) 
-  -  [8.8练习-控制机械臂关节运动并求正解](chapt8/8.8练习-控制机械臂关节运动并求正解.md) 
-  -  [8.9拓展-使用xacro简化URDF](chapt8/8.9拓展-使用xacro简化URDF.md) 
-  -  [8.10拓展-使用solidworks导出URDF](chapt8/8.10拓展-使用solidworks导出URDF.md) 
+  - [8.1URDF统一机器人建模语言](chapt8/8.1URDF统一机器人建模语言.md)
+  - [8.2RVIZ2可视化移动机器人模型](chapt8/8.2RVIZ2可视化移动机器人模型.md) 
+  - [8.3动手创建一个移动机器人](chapt8/8.3动手创建一个移动机器人.md) 
+  - [8.4控制移动机器人轮子运动](chapt8/8.4控制移动机器人轮子运动.md) 
+
 
 - 第 9 章 动手学机器人仿真
   -  [章节介绍](chapt9/章节介绍.md)  
-  - [9.1什么是机器人仿真](chapt9/9.1什么是机器人仿真.md) 
+  -  [9.1什么是机器人仿真](chapt9/9.1什么是机器人仿真.md) 
   -  [9.2为URDF注入物理属性](chapt9/9.2为URDF注入物理属性.md) 
   -  [9.3配置ROS2的Gazebo插件](chapt9/9.3配置ROS2的Gazebo插件.md) 
   -  [9.4使用Gazebo进行移动机器人仿真](chapt9/9.4使用Gazebo进行移动机器人仿真.md) 
