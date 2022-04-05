@@ -102,14 +102,9 @@
   -  [章节介绍](chapt9/章节介绍.md)  
   -  [9.1什么是机器人仿真](chapt9/9.1什么是机器人仿真.md) 
   -  [9.2为URDF注入物理属性](chapt9/9.2为URDF注入物理属性.md) 
-  -  [9.3配置ROS2的Gazebo插件](chapt9/9.3配置ROS2的Gazebo插件.md) 
-  -  [9.4使用Gazebo进行移动机器人仿真](chapt9/9.4使用Gazebo进行移动机器人仿真.md) 
+  -  [9.3为FishBot配置两轮差速控制插件](chapt9/9.3为FishBot配置两轮差速控制插件.md) 
+  -  [9.4为FishBot添加IMU传感器](chapt9/9.4为FishBot添加IMU传感器.md) 
   -  [9.5给机器人添加激光传感器](chapt9/9.5给机器人添加激光传感器.md) 
-  -  [9.6机械臂URDF物理属性配置](chapt9/9.6机械臂URDF物理属性配置.md) 
-  -  [9.7使用Gazebo进行机械臂仿真控制](chapt9/9.7使用Gazebo进行机械臂仿真控制.md) 
-  -  [9.8拓展:下一代仿真工具Ignition](chapt9/9.8下一代仿真工具Ignition.md) 
-  -  [9.9拓展:比URDF更灵活的SDF](chapt9/9.9比URDF更灵活的SDF.md) 
-
 - 第 10 章 移动机器人导航实战
   -  [章节介绍](chapt10/章节介绍.md) 
 
