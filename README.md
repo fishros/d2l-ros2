@@ -3,6 +3,8 @@
 各位同学大家好，我是小鱼，从今天开始就和小鱼一起动手学习机器人、学习ROS2。
 
 
+> 小鱼录制的配套视频地址:<iframe height="400" width="600" src="//player.bilibili.com/player.html?aid=764419101&bvid=BV1gr4y1Q7j5&cid=448791033&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="false"> </iframe>
+
 
 ## 1.为什么要学习ROS2？
 
@@ -20,8 +22,7 @@ ROS2作为第二代机器人操作系统，比ROS更加的强大，有一些在R
 
 - 基于ROS2的移动机器人导航仿真 https://www.bilibili.com/video/BV1Ef4y1P7wt/
 
-
- <img src="docs/README/imgs/image-20210909222841288.png" alt="image-20210909222841288" style="zoom: 25%;" />
+  <img src="docs/README/imgs/image-20210909222841288.png" alt="image-20210909222841288" style="zoom: 25%;" />
 
 - 基于ROS2的Moveit2的机械臂运动规划https://mp.weixin.qq.com/s/Lx-xLO_C9NKxCcRBHj2gUw
 
@@ -78,12 +79,17 @@ ROS2作为第二代机器人操作系统，比ROS更加的强大，有一些在R
 
 ### 4.1.3 三期课程安排
 
-机器人仿真环节-Nav2和Moveit2
+移动机器人导航之Nav2
 
-- 第 10 章 综合案例一：SLAM导航仿真
-- 第 11 章 综合案例二：MoveIt机械臂建模
+- 第 10 章 ROS2移动机器人应用实战：基于Nav2的SLAM导航仿真
 
 ### 4.1.4 四期课程安排
+
+机械臂运动规划之Moveit2
+
+- 第 11 章 ROS2机械臂应用实战：基于MoveIt2机械臂运动规划
+
+### 4.1.5 五期课程安排
 
 动手做一个实体机器人
 
@@ -91,16 +97,23 @@ ROS2作为第二代机器人操作系统，比ROS更加的强大，有一些在R
 
 <img src="docs/README/imgs/image-20220113094606907.png" alt="image-20211124001841727" style="zoom:90%;" />
 
-## 6.学习资源
 
-### 6.1 公众号:鱼香ROS
+## 5.学习资源
+
+### 5.1 公众号:鱼香ROS
 
 几乎每日更新的学习教程和资源，后台回复`学习资料`可获得大礼包
 
 ![](docs/README/imgs/image-20210726192026520.png)
 
+### 5.2 技术交流群
 
-### 6.2 鱼香ROS官网
+- 微信交流群：鱼香ROS公众号下方
+- QQ交流群：139707339，进群指令(d2lros2+fishros)
+
+
+
+### 5.3 鱼香ROS官网
 
 记住网址：fish(鱼)+ros+.com=fishros.com
 
@@ -110,9 +123,9 @@ ROS2作为第二代机器人操作系统，比ROS更加的强大，有一些在R
 
 
 
-## 7.关于小鱼
+## 6.关于小鱼
 
-小鱼目前主要在做基于ROS的复合机器人(移动底盘+机械臂)相关的工作，坐标深圳，有时间的小伙伴周末一起来喝个茶。
+小鱼目前主要在做移动机器人导航相关的工作，坐标深圳，有时间的小伙伴周末一起来喝个茶。
 
 因为作者个人能力有限，教程之中难免有错误之处，如果你有发现请联系小鱼，小鱼将第一时间修正。
 
