@@ -28,6 +28,10 @@
    * [colcon](codebook/pages/colcon.md) 构建工具.
    * ```ros2 doctor --report``` gives tons of information.
 * [CMake](codebook/pages/cmake.md)
+* URDF
+   * [Gazebo插件配置]() 
+   * [Xacro]() 
+   * [URDF]() 
 * 功能包
    * [设置 bloom/git 总是使用 ssh](https://answers.ros.org/question/234494/diagnosing-issues-with-bloom-github-two-factor-authentication/)
    * `rosdep install --from-paths src --ignore-src --rosdistro=foxy -y`
