@@ -139,4 +139,5 @@
   -  [10.7Nav2导航框架介绍](chapt10/10.7Nav2导航框架介绍.md)
   -  [10.8为Fishbot配置Nav2](chapt10/10.8为Fishbot配置Nav2.md)
   -  [10.9使用Fishbot进行自主导航](chapt10/10.9使用Fishbot进行自主导航.md)
+  -  [10.10通过Nav2API进行导航](chapt10/10.10通过Nav2API进行导航)
   -  [10.11Nav2进阶学习](chapt10/10.11Nav2进阶学习.md)
