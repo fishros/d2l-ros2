@@ -17,7 +17,7 @@
     -  [Launch](humble/codebook/pages/launch.md) 
     -  [网络通讯](humble/codebook/pages/networking.md) 
     -  [功能包](humble/codebook/pages/packages.md) 
-- （一）​ROS2入门篇
+- （一）​ROS2入门篇(更新中)
   - 第 1 章 ROS2介绍与安装
     - [章节导读](humble/chapt1/章节导读.md) 
     - 基础篇-Linux基础
@@ -50,12 +50,10 @@
       -  [4.使用RCLCPP编写节点](humble/chapt2/get_started/4.使用RCLCPP编写节点.md) 
       -  [5.使用RCLPY编写节点](humble/chapt2/get_started/5.使用RCLPY编写节点.md) 
     - 进阶篇-ROS2系统
-      - 五种不同的方式编写节点
-      - 生命周期节点介绍
-      - ROS2节点发现机制原理
-      - Colcon编译原理
-      - ROS2包运行原理
-      - ROS2客户端库源码导读
+      -  [1.面向对象编程思想](humble/chapt2/advanced/1.面向对象编程思想.md) 
+      -  [2.使用面向对象方式编写ROS2节点](humble/chapt2/advanced/2.使用面向对象方式编写ROS2节点.md) 
+      -  [3.Colcon使用进阶](humble/chapt2/advanced/3.Colcon使用进阶.md) 
+      -  [4.ROS2节点发现与多机通信](humble/chapt2/advanced/4.ROS2节点发现与多机通信.md) 
   - 第 3 章 ROS2通信之话题与服务
     - 章节导读
     - 基础篇-中间件与面向对象基础
