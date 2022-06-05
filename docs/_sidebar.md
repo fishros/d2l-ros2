@@ -54,7 +54,7 @@
       -  [2.使用面向对象方式编写ROS2节点](humble/chapt2/advanced/2.使用面向对象方式编写ROS2节点.md) 
       -  [3.Colcon使用进阶](humble/chapt2/advanced/3.Colcon使用进阶.md) 
       -  [4.ROS2节点发现与多机通信](humble/chapt2/advanced/4.ROS2节点发现与多机通信.md) 
-  - 第 3 章 ROS2通信之话题与服务
+  - 第 3 章 ROS2节点通信之话题与服务
     - 章节导读
     - 基础篇-中间件与面向对象基础
       - 常见通信方式与原理
