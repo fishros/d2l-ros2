@@ -57,10 +57,11 @@
   - 第 3 章 ROS2节点通信之话题与服务
     -  [章节导读](humble/chapt3/章节导读.md) 
     - 基础篇-中间件与面向对象基础
-      - 常见通信方式与原理
-      - 通信中间件之DDS与ZMQ
-      - 多线程回调函数和锁
-      - 面向对象编程知多少
+      -  [1.从底层理解通信](humble/chapt3/basic/1.从底层理解通信.md) 
+      -  [2.通信中间件之ZMQ](humble/chapt3/basic/2.通信中间件之ZMQ.md)
+      -  [3.多线程回调函数和锁](humble/chapt3/basic/3.多线程回调函数和锁.md) 
+      -  [4.现代编程利器之Lambda表达式](humble/chapt3/basic/4.现代编程利器之Lambda表达式.md) 
+      -  [5.消息的序列化与反序列化](humble/chapt3/basic/5.消息的序列化与反序列化.md) 
     - 入门篇-话题与服务
       -  [1.ROS2话题入门](humble/chapt3/get_started/1.ROS2话题入门.md) 
       -  [2.话题之RCLCPP实现](humble/chapt3/get_started/2.话题之RCLCPP实现.md) 
@@ -72,36 +73,35 @@
       -  [8.自定义接口RCLCPP实战](humble/chapt3/get_started/8.自定义接口RCLCPP实战.md) 
       -  [9.自定义接口RCLPY实战](humble/chapt3/get_started/9.自定义接口RCLPY实战.md) 
     - 进阶篇-中间件进阶
-      - 原始数据类型与包装类型
-      - 通信质量Qos配置指南
-      - 为什么ROS2选择DDS
-      - DDS进阶之Fast-DDS环境搭建
-      - 使用DDS进行订阅发布
+      -  [1.原始数据类型与包装类型](humble/chapt3/advanced/1.原始数据类型与包装类型.md) 
+      -  [2.通信质量Qos配置指南](humble/chapt3/advanced/2.通信质量Qos配置指南.md) 
+      -  [3.DDS进阶之Fast-DDS环境搭建](humble/chapt3/advanced/3.DDS进阶之Fast-DDS环境搭建.md) 
+      -  [4.使用DDS进行订阅发布](humble/chapt3/advanced/4.使用DDS进行订阅发布.md) 
+      -  [5.ROS2消息序列化思考与实践 ](humble/chapt3/advanced/5.ROS2消息序列化思考与实践 .md) 
+      -  [6.执行器与回调组](humble/chapt3/advanced/6.执行器与回调组.md) 
   - 第 4 章 ROS2通信之参数与动作
-    - 章节导读
+    -  [章节导读](humble/chapt4/章节导读.md) 
     - 基础篇-控制概述
-      - 机器人控制概述
+      -  [1.开环控制与闭环控制](humble/chapt4/basic/1.开环控制与闭环控制.md) 
     - 入门篇-参数与动作
-      - 参数（Param）介绍
-      - 参数之RCLCPP实现
-      - 参数之RCLPY实现
-      - 动作（Action）介绍
-      - 动作之RCLCPP实现
-      - 动作之RCLPY实现
-      - 自定义动作接口通信
-      - 通信机制对比总结
+      -  [1.参数（Param）通信](humble/chapt4/get_started/1.参数（Param）通信.md) 
+      -  [2.参数之RCLCPP实现](humble/chapt4/get_started/2.参数之RCLCPP实现.md) 
+      -  [3.参数之RCLPY实现](humble/chapt4/get_started/3.参数之RCLPY实现.md) 
+      -  [4.动作（Action）通信与自定义接口](humble/chapt4/get_started/4.动作（Action）通信与自定义接口.md) 
+      -  [5.动作之CPP实现](humble/chapt4/get_started/5.动作之CPP实现.md) 
+      -  [6.动作之RCLPY实现](humble/chapt4/get_started/6.动作之RCLPY实现.md) 
+      -  [7.通信机制对比总结](humble/chapt4/get_started/7.通信机制对比总结.md) 
     - 进阶篇-原理进阶
-      - 参数机制原理
-      - 动作通信原理
-      - ROS2如何兼容多家DDS
-      - 高效的ROS2进程内通信
-      - 使用ZeroMQ进行订阅发布
+      -  [1.ROS参数通信原理](humble/chapt4/advanced/1.ROS参数通信原理.md) 
+      -  [2.ROS2动作通信原理](humble/chapt4/advanced/2.ROS2动作通信原理.md) 
+      -  [3.生命周期节点](humble/chapt4/advanced/3.生命周期节点.md) 
+      -  [4.更快的共享内存通信](humble/chapt4/advanced/4.更快的共享内存通信.md) 
   - 第 5 章 ROS2常用工具
-    - 章节导读
+    -  [章节导读](humble/chapt5/章节导读.md) 
     - 基础篇-相关概念
-      - QT是什么
-      - 仿真引擎
-      - 常见配置文件格式
+      -  [1.始于颜值之QT](humble/chapt5/basic/1.始于颜值之QT.md) 
+      -  [2.虚拟现实之仿真](humble/chapt5/basic/2.虚拟现实之仿真.md) 
+      -  [3.机器人中常用配置文件](humble/chapt5/basic/3.机器人中常用配置文件.md) 
     - 入门篇-常用工具
       - 命令行工具-ROS2CLI
       - 启动管理工具-Launch
