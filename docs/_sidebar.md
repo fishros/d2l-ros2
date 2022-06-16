@@ -46,7 +46,7 @@
     - 入门篇-动手使用ROS2
       -  [1.ROS2节点介绍](humble/chapt2/get_started/1.ROS2节点介绍.md) 
       -  [2.ROS2功能包与工作空间](humble/chapt2/get_started/2.ROS2功能包与工作空间.md) 
-      -  [3.ROS2编译器之Colcon](humble/chapt2/get_started/3.ROS2编译器之Colcon.md) 
+      -   [3.ROS2构建工具之Colcon](humble/chapt2/get_started/3.ROS2构建工具之Colcon.md) 
       -  [4.使用RCLCPP编写节点](humble/chapt2/get_started/4.使用RCLCPP编写节点.md) 
       -  [5.使用RCLPY编写节点](humble/chapt2/get_started/5.使用RCLPY编写节点.md) 
     - 进阶篇-ROS2系统
