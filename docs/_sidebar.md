@@ -17,6 +17,7 @@
     -  [Launch](humble/codebook/pages/launch.md) 
     -  [网络通讯](humble/codebook/pages/networking.md) 
     -  [功能包](humble/codebook/pages/packages.md) 
+  
 - （一）​ROS2入门篇
   - 第 1 章 ROS2介绍与安装
     - [章节导读](humble/chapt1/章节导读.md) 
@@ -77,7 +78,7 @@
       -  [2.通信质量Qos配置指南](humble/chapt3/advanced/2.通信质量Qos配置指南.md) 
       -  [3.DDS进阶之Fast-DDS环境搭建](humble/chapt3/advanced/3.DDS进阶之Fast-DDS环境搭建.md) 
       -  [4.使用DDS进行订阅发布](humble/chapt3/advanced/4.使用DDS进行订阅发布.md) 
-      -  [5.ROS2消息序列化思考与实践 ](humble/chapt3/advanced/5.ROS2消息序列化思考与实践 .md) 
+      -  [5.ROS2消息序列化思考与实践](humble/chapt3/advanced/5.ROS2消息序列化思考与实践 .md) 
       -  [6.执行器与回调组](humble/chapt3/advanced/6.执行器与回调组.md) 
   - 第 4 章 ROS2通信之参数与动作
     -  [章节导读](humble/chapt4/章节导读.md) 
@@ -115,35 +116,39 @@
       - 3.兼容仿真工具WeBots
       - 4.兼容仿真工具UnityForROS2
       - 5.ROS2内存管理工具
+  
 - （二）机器人学篇(更新中)
   - 第 6 章 运动学基础
     - 章节导读
     - 基础篇-数学基础
-      - 1.矩阵与矩阵运算
-      - 2.MiniConda与Jupyter介绍安装
-      - 3.矩阵运算实战
+      -  [1.矩阵与矩阵运算](humble/chapt6/basic/1.矩阵与矩阵运算.md) 
+      -  [2.MiniConda与Jupyter介绍安装](humble/chapt6/basic/2.MiniConda与Jupyter介绍安装.md) 
+      -  [3.矩阵运算实战](humble/chapt6/basic/3.矩阵运算实战.md) 
+      
     - 入门篇-机器人运动学
-      - 1.空间坐标描述
-      - 2.空间坐标描述实战
-      - 3.姿态的多种表示
-      - 4.姿态转换实战
-      - 5.齐次坐标变换
-      - 6.齐次坐标变换实战
-      - 7.机器人运行学介绍
+      -  [1.空间坐标描述](humble/chapt6/get_started/1.空间坐标描述.md) 
+      -  [2.空间坐标描述实战](humble/chapt6/get_started/2.空间坐标描述实战.md) 
+      -  [3.姿态的多种表示](humble/chapt6/get_started/3.姿态的多种表示.md) 
+      -  [4.姿态转换实战](humble/chapt6/get_started/4.姿态转换实战.md) 
+      -  [5.齐次坐标变换](humble/chapt6/get_started/5.齐次坐标变换.md) 
+      -  [6.齐次坐标变换实战](humble/chapt6/get_started/6.齐次坐标变换实战.md) 
+      -  [7.机器人运行学介绍](humble/chapt6/get_started/7.机器人运行学介绍.md) 
       <!-- - 两轮差速运动学 -->
       <!-- - 机械臂运动学 -->
+      
     - 进阶篇-运动学进阶
-      - 动力学基础-力与速度
-
+      - 待定
+      <!-- - 动力学基础-力与速度 -->
+    
   - 第 7 章 ROS2运动学
     - 章节导读
     - 基础篇-常用工具
-      - MiniConda与Jupyter介绍安装
+      - 待定
     - 入门篇-机器人运动学
-      - 1.TF2介绍
-      - 2.坐标变换发布监听Python实现
-      - 3.坐标变换发布监听C++实现
-      - 4.坐标变换可视化
+      -  [1.TF2介绍](humble/chapt7/get_started/1.TF2介绍.md) 
+      -  [2.学会使用RVIZ2-TF组件](humble/chapt7/get_started/2.学会使用RVIZ2-TF组件.md) 
+      -  [3.坐标变换发布监听Python实现](humble/chapt7/get_started/3.坐标变换发布监听Python实现.md) 
+      -  [4.坐标变换发布监听C++实现](humble/chapt7/get_started/4.坐标变换发布监听C++实现.md) 
     - 进阶篇-TF时间机制
       - 1.ROS2-TF时间机制
 
