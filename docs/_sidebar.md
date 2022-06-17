@@ -117,7 +117,7 @@
       - 4.兼容仿真工具UnityForROS2
       - 5.ROS2内存管理工具
   
-- （二）机器人学篇(更新中)
+- （二）机器人学篇
   - 第 6 章 运动学基础
     - 章节导读
     - 基础篇-数学基础
@@ -160,12 +160,12 @@
       - 1.常见机器人构型
       - 2.常见建模软件及工具
     - 入门篇-机器人建模
-      - 1.URDF建模介绍
-      - 2.RVIZ2可视化URDF模型
-      - 3.创建一个两轮差速模型
-      - 4.两轮差速可视化及关节控制
-      <!-- - 创建一个机械臂模型 -->
-      <!-- - 机械臂可视化及关节控制 -->
+      -  [1.URDF统一机器人建模语言](humble/chapt8/get_started/1.URDF统一机器人建模语言.md) 
+      -  [2.RVIZ2可视化URDF模型](humble/chapt8/get_started/2.RVIZ2可视化URDF模型.md) 
+      -  [3.创建一个两轮差速模型](humble/chapt8/get_started/3.创建一个两轮差速模型.md) 
+      -  [4.通过JointStates控制RVIZ2关节](humble/chapt8/get_started/4.通过JointStates控制RVIZ2关节.md) 
+      - <!-- - 创建一个机械臂模型 -->
+        <!-- - 机械臂可视化及关节控制 -->
     - 进阶篇-其他建模方式
       - Xacro介绍
       - 使用Xacro简化机器人模型
@@ -176,20 +176,21 @@
   - 第 9 章 机器人仿真
     - 章节导读
     - 基础篇-概念
-      - 刚体及其动力学参数
+      - 待定
+      <!-- - 1.刚体及其动力学参数 -->
     - 入门篇-机器人仿真
-      - 1.仿真软件Gazebo介绍与安装
-      - 2.给两轮差速机器人添加物理参数
-      - 3.在Gazebo加载机器人模型
-      - 4.Gazebo仿真插件之两轮差速
-      - 5.Gazebo仿真插件之IMU
-      - 6.Gazebo仿真插件之激光雷达
-      - 7.Gazebo仿真环境搭建
+      -  [1.机器人仿真介绍](humble/chapt9/get_started/1.机器人仿真介绍.md) 
+      -  [2.给两轮差速机器人添加物理参数](humble/chapt9/get_started/2.给两轮差速机器人添加物理参数.md) 
+      -  [3.在Gazebo加载机器人模型](humble/chapt9/get_started/3.在Gazebo加载机器人模型.md) 
+      -  [4.Gazebo仿真插件之两轮差速](humble/chapt9/get_started/4.Gazebo仿真插件之两轮差速.md) 
+      -  [5.Gazebo仿真插件之IMU](humble/chapt9/get_started/5.Gazebo仿真插件之IMU.md) 
+      -  [6.Gazebo仿真插件之激光雷达](humble/chapt9/get_started/6.Gazebo仿真插件之激光雷达.md) 
+      -  [7.Gazebo仿真环境搭建](humble/chapt9/get_started/7.Gazebo仿真环境搭建.md) 
     - 进阶篇
-      - 1.Gazebo仿真插件之超声波
-      - 2.Gazebo仿真插件之深度相机
+      -  [1.Gazebo仿真插件之超声波](humble/chapt9/advanced/1.Gazebo仿真插件之超声波.md) 
+      <!-- - 2.Gazebo仿真插件之深度相机 -->
 
-- （四）Nav2导航篇
+- （四）Nav2导航篇(更新中)
   - 第 10 章 SLAM建图
     - 章节导读
     - 基础篇-图像基础
