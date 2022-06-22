@@ -2,7 +2,9 @@
 
 ## 基于 Python 的启动文件
 
-基于 python 的启动文件几乎都遵循相同的结构。注意，在 Foxy 之前，参数名称、名称空间和可执行文件的[前缀](https://index.ros.org/doc/ros2/Releases/Release-Foxy-Fitzroy/#launch-ros):
+基于 python 的启动文件几乎都遵循相同的结构。
+
+> 注意，在 Foxy 之前，参数名称、名称空间和可执行文件的[前缀](https://index.ros.org/doc/ros2/Releases/Release-Foxy-Fitzroy/#launch-ros):
 
 
 ```python
