@@ -1,10 +1,10 @@
 # fishros deploy tool 所有的操作都在工程目录进行
 name: d2l-ros2
-tag: master
+tag: humble
 initialize:
   - echo "start successfully"
 pipline:
   - echo
 stages:
   echo:
-    - echo "Start FishAUth Server With 8889!!!"
+    - echo "Start FishAUth Server"
