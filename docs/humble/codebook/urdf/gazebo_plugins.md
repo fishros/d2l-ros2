@@ -182,7 +182,7 @@
 
 详细介绍及文章： [9.3为FishBot配置两轮差速控制插件.md](..\..\chapt9\9.3为FishBot配置两轮差速控制插件.md) 
 
-```
+```xml
   <gazebo>
     <plugin name='diff_drive' filename='libgazebo_ros_diff_drive.so'>
           <ros>
@@ -207,7 +207,50 @@
           <odometry_frame>odom</odometry_frame>
           <robot_base_frame>base_footprint</robot_base_frame>
       </plugin>
+    </gazebo>
 ```
 
 ## 5.JointStatePublisher
 
+待补充
+
+## 6.单目相机
+
+```xml
+    <gazebo reference="camera_link">
+    <sensor type="camera" name="camera">
+      <update_rate>30.0</update_rate>
+      <camera name="head">
+        <horizontal_fov>1.3962634</horizontal_fov>
+        <image>
+          <width>800</width>
+          <height>800</height>
+          <format>R8G8B8</format>
+        </image>
+        <clip>
+          <near>0.02</near>
+          <far>300</far>
+        </clip>
+        <noise>
+          <type>gaussian</type>
+          <mean>0.0</mean>
+          <stddev>0.007</stddev>
+        </noise>
+      </camera>
+      <plugin name="camera_controller" filename="libgazebo_ros_camera.so">
+        <alwaysOn>true</alwaysOn>
+        <updateRate>0.0</updateRate>
+        <cameraName>/camera</cameraName>
+        <imageTopicName>image_raw</imageTopicName>
+        <cameraInfoTopicName>camera_info</cameraInfoTopicName>
+        <frameName>camera_link</frameName>
+        <hackBaseline>0.07</hackBaseline>
+      </plugin>
+    </sensor>
+    <material>Gazebo/Blue</material>
+  </gazebo>
+```
+
+## 7.深度相机
+
+待补充

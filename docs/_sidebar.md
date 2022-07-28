@@ -11,6 +11,9 @@
     -  [参数](humble/codebook/rclpy/parameters.md) 
     -  [tf2](humble/codebook/rclpy/tf2.md) 
     -  [时间](humble/codebook/rclpy/time.md) 
+  - urdf
+    - [xacro模板](humble/codebook/urdf/xacro.md)
+    - [gazebo插件](humble/codebook/urdf/gazebo_plugins.md)
   - 其他相关
     -  [CMake](humble/codebook/pages/cmake.md) 
     -  [Colcon](humble/codebook/pages/colcon.md) 
