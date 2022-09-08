@@ -210,7 +210,7 @@
     - 章节导读
     - 基础篇-基础知识
       - 1.行为树是什么
-    - 入门篇-SLAM建图
+    - 入门篇-Nav2导航入门
       -  [1.Nav2导航框架介绍](humble/chapt11/get_started/1.Nav2导航框架介绍.md) 
       -  [2.为FishBot配置Nav2](humble/chapt11/get_started/2.为FishBot配置Nav2.md) 
       -  [3.使用FishBot进行自主导航](humble/chapt11/get_started/3.使用FishBot进行自主导航.md) 
