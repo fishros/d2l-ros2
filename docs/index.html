@@ -1,21 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>动手学ROS2</title>
   <!-- no chche setting -->
-  <meta   http-equiv= "Expires "   CONTENT= "0 ">                 
-  <meta   http-equiv= "Cache-Control "   CONTENT= "no-cache ">                 
-  <meta   http-equiv= "Pragma "   CONTENT= "no-cache ">                 
+  <meta http-equiv="Expires " CONTENT="0 ">
+  <meta http-equiv="Cache-Control " CONTENT="no-cache ">
+  <meta http-equiv="Pragma " CONTENT="no-cache ">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify@4/lib/themes/vue.css">
 </head>
+
 <body>
   <nav>
-      <a href="https://fishros.com">首页</a>
-      <a href="https://fishros.com">鱼香ROS</a>
+    <a href="https://fishros.com">首页</a>
+    <a href="https://fishros.com">鱼香ROS</a>
   </nav>
   <div id="app"></div>
   <script>
@@ -27,65 +29,72 @@
       // loadNavbar: true,
       loadSidebar: true,
       alias: {
-         '/.*/_sidebar.md': '/_sidebar.md',
+        '/.*/_sidebar.md': '/_sidebar.md',
       },
       subMaxLevel: 3,
       auto2top: true,
       sidebarDisplayLevel: 0,
       search: {
-      	placeholder: '键入以搜索',
-      	noData: '没找到，快去找小鱼催稿',
+        placeholder: '键入以搜索',
+        noData: '没找到，快去找小鱼催稿',
         paths: 'auto',
         depth: 6
       },
       // routerMode: 'history',
       markdown: {
         renderer: {
-          code: function(code, lang) {
+          code: function (code, lang) {
             if (lang === "mermaid") {
               return (
                 '<div class="mermaid">' + mermaid.render('mermaid-svg-' + num++, code) + "</div>"
               );
-            }else if(lang === "tex") {
-            return (
-                  '<span class="tex">'+ katex.renderToString(code, {throwOnError: false})+'</span>'
+            } else if (lang === "tex") {
+              return (
+                '<span class="tex">' + katex.renderToString(code, { throwOnError: false }) + '</span>'
               );
-              }
+            }
             return this.origin.code.apply(this, arguments);
           }
         }
-    },
-    // count:{
-    //   countable:true,
-    //   fontsize:'0.9em',
-    //   color:'rgb(90,90,90)',
-    //   language:'chinese' 
-    // },
-    // 'flexible-alerts': {
-    //   style: 'flat'
-    // },
-    // tabs: 
-    // {
-    //   persist    : true,      // default
-    //   sync       : true,      // default
-    //   theme      : 'classic', // default
-    //   tabComments: true,      // default
-    //   tabHeadings: true       // default
-    // }
+      },
+      // count:{
+      //   countable:true,
+      //   fontsize:'0.9em',
+      //   color:'rgb(90,90,90)',
+      //   language:'chinese' 
+      // },
+      // 'flexible-alerts': {
+      //   style: 'flat'
+      // },
+      // tabs: 
+      // {
+      //   persist    : true,      // default
+      //   sync       : true,      // default
+      //   theme      : 'classic', // default
+      //   tabComments: true,      // default
+      //   tabHeadings: true       // default
+      // }
     }
   </script>
+
   <!-- Docsify v4 -->
-  <script src="//unpkg.com/docsify@4"></script>
+  <!-- <script src="//unpkg.com/docsify@4.12.0"></script> -->
+  <script src="./static/js/docsify.min.js"></script>
   <!-- Serach -->
-  <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
+  <script src="./static/js/search.js"></script>
+  <!-- <script src="//unpkg.com/docsify@4.12.2/lib/plugins/search.js"></script> -->
   <!-- 代码Copy -->
-  <script src="//unpkg.com/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+  <script src="./static/js/docsify-copy-code.min.js"></script>
+  <!-- <script src="//unpkg.com/docsify-copy-code@2.1.1/dist/docsify-copy-code.min.js"></script> -->
   <!-- 折叠 -->
-  <script src="//unpkg.com/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+  <script src="./static/js/docsify-sidebar-collapse.min.js"></script>
+  <!-- <script src="//unpkg.com/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script> -->
   <!-- Gitalker -->
-  <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
-  <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
-  <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+  <link rel="stylesheet" href="./static/css/gitalk.css">
+  <script src="./static/js/gitalk.min.js"></script>
+  <script src="./static/js/gitalk.min1.js"></script>
+  <!-- <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script> -->
+  <!-- <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script> -->
   <script>
     const gitalk = new Gitalk({
       clientID: '70cd1669dc606777866b',
@@ -99,27 +108,34 @@
     })
   </script>
   <!-- 图片缩放 -->
-  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="./static/js/zoom-image.min.js"></script>
+  <!-- <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script> -->
   <!-- 分页导航 -->
   <!-- <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>  -->
   <!-- 代码高亮 -->
-  <script src="//unpkg.com/prismjs@1/components/prism-bash.min.js"></script>
-  <script src="//unpkg.com/prismjs@1/components/prism-php.min.js"></script>
+  <script src="./static/js/prism-bash.min.js"></script>
+  <script src="./static/js/prism-php.min.js"></script>
+  <!-- <script src="//unpkg.com/prismjs@1/components/prism-bash.min.js"></script> -->
+  <!-- <script src="//unpkg.com/prismjs@1/components/prism-php.min.js"></script> -->
 
-  <link rel="stylesheet" href="//unpkg.com/mermaid/dist/mermaid.min.css">
-  <script src="//unpkg.com/mermaid/dist/mermaid.min.js"></script>
+  <!-- <link rel="stylesheet" href="//unpkg.com/mermaid/dist/mermaid.min.css"> -->
+  <!-- <script src="//unpkg.com/mermaid/dist/mermaid.min.js"></script> -->
   <!-- 公式 -->
   <!-- CDN files for docsify-katex -->
-  <script src="//unpkg.com/docsify-katex@latest/dist/docsify-katex.js"></script>
+  <script src="./static/js/katex.min.js"></script>
+  <link rel="stylesheet" href="./static/css/katex/katex.min.css">
+  <script src="./static/js/marked@3.js"></script>
+  <!-- <script src="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script> -->
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css" /> -->
+  <!-- <script src="https://cdn.jsdelivr.net/npm/marked@3"></script> -->
+
+  <!-- CDN files for docsify-katex -->
+  <script src="./static/js/docsify-katex.js"></script>
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script> -->
   <!-- or <script src="//cdn.jsdelivr.net/gh/upupming/docsify-katex@latest/dist/docsify-katex.js"></script> -->
-  <link rel="stylesheet" href="//unpkg.com/katex@latest/dist/katex.min.css"/>
-  <!-- 字数统计 -->
-  <!-- <script src="//unpkg.com/docsify-count/dist/countable.js"></script> -->
-  <!-- Latest -->
-  <!-- <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script> -->
-  <!-- 表情插件 -->
-  <!-- <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script> -->
-  <!-- tab -->
-  <!-- <script src="https://unpkg.com/docsify-tabs@1"></script> -->
+
+
+
 </body>
+
 </html>
