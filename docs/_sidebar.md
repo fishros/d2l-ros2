@@ -234,11 +234,11 @@
   - 第 13 章 嵌入式开发之从点灯开始
     - [章节导读](humble/chapt13/章节导读.md)
     - 基础篇-嵌入式开发介绍与环境搭建
-      - [1.什么是单片机MCU？](humble/chapt13/get_started/1.什么是单片机MCU？.md)
-      - 2.微处理器开发平台介绍
-      - 3.PlateFormIO开发平台安装
-      - 4.第一个HelloWord工程
-      - 5.通讯协议小课堂-串口通信
+      - [1.什么是单片机MCU](humble/chapt13/get_started/1.什么是单片机MCU.md)
+      - [2.单片机开发平台](humble/chapt13/get_started/2.单片机开发平台.md)
+      - [3.搭建PlateFormIO开发环境](humble/chapt13/get_started/3.搭建PlateFormIO开发环境.md)
+      - [4.PIO工程结构&构建方式](humble/chapt13/get_started/4.PIO工程结构&构建方式.md)
+      - [5.第一个HelloWord工程](humble/chapt13/get_started/5.第一个HelloWord工程.md)
     - 入门篇-从点灯开始学起
       - 1.点灯基础-看懂LED驱动电路
       - 2.完成点灯-GPIO控制
@@ -294,7 +294,7 @@
       - 通信设计（待定）
       - 上位机SDK开发
     - 进阶篇-实战演练
-      - EKF融合里程计和IMU数据
+      - EKF融合里程计和IMU数据 
 
   - 第 18 章 上位机建图及导航
     - 章节导读
