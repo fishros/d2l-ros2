@@ -241,9 +241,9 @@
       - [5.第一个HelloWord工程](humble/chapt13/get_started/5.第一个HelloWord工程.md)
       - [6.串口通信-接收实验](humble/chapt13/get_started/6.串口通信-接收实验.md)
     - 入门篇-从点灯开始学起
-      - 1.点灯基础-看懂LED驱动电路
-      - 2.完成点灯-GPIO控制
-      - 3.按键输入-GPIO读取
+      - [1.点灯基础-看懂LED驱动电路](humble/chapt13/basic/1.点灯基础-看懂LED驱动电路.md)
+      - [2.完成点灯学会GPIO输出](humble/chapt13/basic/2.完成点灯GPIO控制.md)
+      - [3.使用按键学会GPIO输入](humble/chapt13/basic/3.学会使用按键GPIO输入.md)
       - 4.电池电压测量-学会使用ADC
     - 进阶篇-学会使用第三方库
       - 1.学会三方库的两种安装方法
