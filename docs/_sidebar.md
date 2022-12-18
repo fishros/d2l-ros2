@@ -239,10 +239,11 @@
       - [3.搭建PlateFormIO开发环境](humble/chapt13/get_started/3.搭建PlateFormIO开发环境.md)
       - [4.PIO工程结构&构建方式](humble/chapt13/get_started/4.PIO工程结构&构建方式.md)
       - [5.第一个HelloWord工程](humble/chapt13/get_started/5.第一个HelloWord工程.md)
+      - [6.串口通信-接收实验](humble/chapt13/get_started/6.串口通信-接收实验.md)
     - 入门篇-从点灯开始学起
       - 1.点灯基础-看懂LED驱动电路
       - 2.完成点灯-GPIO控制
-      - 3.电路小课堂-数字电路与模拟电路
+      - 3.按键输入-GPIO读取
       - 4.电池电压测量-学会使用ADC
     - 进阶篇-学会使用第三方库
       - 1.学会三方库的两种安装方法
