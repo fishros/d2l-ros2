@@ -244,7 +244,7 @@
       - [1.点灯基础-看懂LED驱动电路](humble/chapt13/basic/1.点灯基础-看懂LED驱动电路.md)
       - [2.完成点灯学会GPIO输出](humble/chapt13/basic/2.完成点灯GPIO控制.md)
       - [3.使用按键学会GPIO输入](humble/chapt13/basic/3.学会使用按键GPIO输入.md)
-      - 4.电池电压测量-学会使用ADC
+      - [4.电池电压测量-学会使用ADC](humble/chapt13/basic/4.电池电压测量-学会使用ADC.md)
     - 进阶篇-学会使用第三方库
       - 1.学会三方库的两种安装方法
       - 2.使用SSD1306驱动OLED
