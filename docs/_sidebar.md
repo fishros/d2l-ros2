@@ -250,7 +250,8 @@
       - [2.使用开源库驱动IMU](humble/chapt13/advance/2.使用开源库驱动IMU.md)
       - [3.学会面向对象编程-封装IMU驱动](humble/chapt13/advance/3.学会面向对象编程-封装IMU驱动.md)
       - [4.使用开源库驱动OLED](humble/chapt13/advance/4.使用开源库驱动OLED.md)
-      - 4.学会面向对象编程-封装OLED驱动
+      - [5.通讯协议小课堂-I2C通信](humble/chapt13/advance/5.通讯协议小课堂-I2C通信)
+      - [6.I2C通信实验-点亮OLED](humble/chapt13/advance/6.I2C通信实验-点亮OLED.md)
   - 第 14 章 接入ROS2-MicroROS
     - 基础篇-MicoRos介绍与安装
       - 1.在上位机上安装MicroROS服务
