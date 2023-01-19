@@ -248,8 +248,8 @@
     - 进阶篇-学会使用第三方库
       - [1.学会安装第三方开源库](humble/chapt13/advance/1.学会安装第三方开源库.md)
       - [2.使用开源库驱动IMU](humble/chapt13/advance/2.使用开源库驱动IMU.md)
-      - 2.使用SSD1306驱动OLED
-      - 3.通讯协议小课堂-I2C通信
+      - [3.学会面向对象编程-封装IMU驱动](humble/chapt13/advance/3.学会面向对象编程-封装IMU驱动.md)
+      - [4.使用开源库驱动OLED](humble/chapt13/advance/4.使用开源库驱动OLED.md)
       - 4.学会面向对象编程-封装OLED驱动
   - 第 14 章 接入ROS2-MicroROS
     - 基础篇-MicoRos介绍与安装
