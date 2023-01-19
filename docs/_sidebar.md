@@ -247,6 +247,7 @@
       - [4.电池电压测量-学会使用ADC](humble/chapt13/basic/4.电池电压测量-学会使用ADC.md)
     - 进阶篇-学会使用第三方库
       - [1.学会安装第三方开源库](humble/chapt13/advance/1.学会安装第三方开源库.md)
+      - [2.使用开源库驱动IMU](humble/chapt13/advance/2.使用开源库驱动IMU.md)
       - 2.使用SSD1306驱动OLED
       - 3.通讯协议小课堂-I2C通信
       - 4.学会面向对象编程-封装OLED驱动
