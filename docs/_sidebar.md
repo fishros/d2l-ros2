@@ -253,9 +253,10 @@
       - [5.通讯协议小课堂-I2C通信](humble/chapt13/advance/5.通讯协议小课堂-I2C通信)
       - [6.I2C通信实验-点亮OLED](humble/chapt13/advance/6.I2C通信实验-点亮OLED.md)
   - 第 14 章 接入ROS2-MicroROS
-    - 基础篇-MicoRos介绍与安装
-      - 1.在上位机上安装MicroROS服务
-      - 2.编写你的第一个MicroROS节点
+    - [章节导读](humble/chapt14/章节导读.md)  
+    - 基础篇-第一个MicroROS节点
+      - [1.MicroROS介绍与服务安装](humble/chapt14/basic/1.MicroROS介绍与服务安装.md)
+      - [2.你的第一个MicroROS节点](humble/chapt14/basic/2.你的第一个MicroROS节点.md)
     - 入门篇-在嵌入式平台实现话题与服务通信
       - 1.MicroROS-话题订阅实现
       - 2.MicroROS-话题发布实现
