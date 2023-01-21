@@ -260,7 +260,7 @@
       - [2.话题发布-上传电量信息](humble/chapt14/get_started/2.MicroROS-话题发布实现.md)
       - [3.服务实现-两数相加](humble/chapt14/get_started/3.MicroROS-服务通信服务端实现.md)
     - 进阶篇-MicoROS原理与使用进阶
-      - [1.控制OLED-自定义消息接口.md](humble/chapt14/advance/1.控制OLED-自定义消息接口.md)
+      - [1.控制OLED-自定义消息接口](humble/chapt14/advance/1.控制OLED-自定义消息接口.md)
       - [2.做个时钟-系统时间同步](humble/chapt14/advance/2.做个时钟-系统时间同步.md)
       - [3.无线通讯-了解传输原理](humble/chapt14/advance/3.无线通讯-了解传输原理.md)
   - 第 15 章 ROS2硬件实战（自制简易雷达）
