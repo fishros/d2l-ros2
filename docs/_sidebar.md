@@ -264,9 +264,9 @@
       - [2.做个时钟-系统时间同步](humble/chapt14/advance/2.做个时钟-系统时间同步.md)
       - [3.无线通讯-了解传输原理](humble/chapt14/advance/3.无线通讯-了解传输原理.md)
       - [4.榨干性能-使用双核运行MicroROS](humble/chapt14/advance/4.榨干性能-使用双核运行MicroROS.md)
-  - 第 15 章 ROS2硬件实战（自制简易雷达）](humble/chapt15/章节导读.md
-      - [章节导读](docs/humble/chapt15/章节导读.md)
-      - [1.简易雷达原理介绍](humble/chapt15/3.控制舵机学会使用执行器.md)
+  - 第 15 章 ROS2硬件实战（自制简易雷达）
+      - [章节导读](humble/chapt15/章节导读.md)
+      - [1.简易雷达原理介绍](humble/chapt15/1.简易雷达原理介绍.md)
       - [2.使用超声波测量距离](humble/chapt15/2.测量距离学会超声波传感器.md)
       - [3.使用pwm控制舵机角度](humble/chapt15/3.控制舵机学会使用执行器.md)
       - [4.实现循环扫描测量](humble/chapt15/4.舵机+超声波循环扫描.md)
