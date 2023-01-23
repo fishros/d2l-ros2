@@ -263,6 +263,7 @@
       - [1.控制OLED-自定义消息接口](humble/chapt14/advance/1.控制OLED-自定义消息接口.md)
       - [2.做个时钟-系统时间同步](humble/chapt14/advance/2.做个时钟-系统时间同步.md)
       - [3.无线通讯-了解传输原理](humble/chapt14/advance/3.无线通讯-了解传输原理.md)
+      - [4.榨干性能-使用双核运行MicroROS](humble/chapt14/advance/4.榨干性能-使用双核运行MicroROS.md)
   - 第 15 章 ROS2硬件实战（自制简易雷达）
       - 1.简易雷达原理介绍
       - 2.使用超声波测量距离
