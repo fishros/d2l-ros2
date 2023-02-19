@@ -20,7 +20,6 @@
     -  [Launch](humble/codebook/pages/launch.md) 
     -  [网络通讯](humble/codebook/pages/networking.md) 
     -  [功能包](humble/codebook/pages/packages.md) 
-  
 - （一）​ROS2入门篇
   - 第 1 章 ROS2介绍与安装
     - [章节导读](humble/chapt1/章节导读.md) 
@@ -31,7 +30,7 @@
       -  [4.玩转Ubuntu之编程工具](humble/chapt1/basic/4.玩转Ubuntu之编程工具.md) 
       -  [5.玩转Ubuntu之常用软件](humble/chapt1/basic/5.玩转Ubuntu之常用软件.md) 
     - 入门篇-ROS2介绍安装
-      -  [1.ROS与ROS2对比](humble/chapt1/get_started/2.ROS与ROS2对比.md) 
+      -  [1.ROS2前世今生](humble/chapt1/get_started/1.ROS2前世今生.md) 
       -  [2.ROS与ROS2对比](humble/chapt1/get_started/2.ROS与ROS2对比.md) 
       -  [3.动手安装ROS2](humble/chapt1/get_started/3.动手安装ROS2.md) 
       -  [4.ROS2初体验](humble/chapt1/get_started/4.ROS2初体验.md) 
@@ -64,8 +63,6 @@
       -  [1.从底层理解通信](humble/chapt3/basic/1.从底层理解通信.md) 
       -  [2.通信中间件之ZMQ](humble/chapt3/basic/2.通信中间件之ZMQ.md)
       -  [3.多线程回调函数和锁](humble/chapt3/basic/3.多线程回调函数和锁.md) 
-      -  [4.现代编程利器之Lambda表达式](humble/chapt3/basic/4.现代编程利器之Lambda表达式.md) 
-      -  [5.消息的序列化与反序列化](humble/chapt3/basic/5.消息的序列化与反序列化.md) 
     - 入门篇-话题与服务
       -  [1.ROS2话题入门](humble/chapt3/get_started/1.ROS2话题入门.md) 
       -  [2.话题之RCLCPP实现](humble/chapt3/get_started/2.话题之RCLCPP实现.md) 
@@ -119,7 +116,6 @@
       - 3.兼容仿真工具WeBots
       - 4.兼容仿真工具UnityForROS2
       - 5.ROS2内存管理工具
-  
 - （二）机器人学篇
   - 第 6 章 运动学基础
     - 章节导读
