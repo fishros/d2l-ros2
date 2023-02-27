@@ -78,8 +78,8 @@
       -  [2.通信质量Qos配置指南](humble/chapt3/advanced/2.通信质量Qos配置指南.md) 
       -  [3.DDS进阶之Fast-DDS环境搭建](humble/chapt3/advanced/3.DDS进阶之Fast-DDS环境搭建.md) 
       -  [4.使用DDS进行订阅发布](humble/chapt3/advanced/4.使用DDS进行订阅发布.md) 
-      -  [5.ROS2消息序列化思考与实践](humble/chapt3/advanced/5.ROS2消息序列化思考与实践.md) 
-      -  [6.执行器与回调组](humble/chapt3/advanced/6.执行器与回调组.md) 
+      <!-- -  [5.ROS2消息序列化思考与实践](humble/chapt3/advanced/5.ROS2消息序列化思考与实践.md)  -->
+      <!-- -  [6.执行器与回调组](humble/chapt3/advanced/6.执行器与回调组.md)  -->
   - 第 4 章 ROS2通信之参数与动作
     -  [章节导读](humble/chapt4/章节导读.md) 
     - 基础篇-控制概述
