@@ -98,7 +98,7 @@
   }
 
   function getTableData(token) {
-    if (!token.text && token.type === 'table') {
+    if (!token.text && token.type === 'table' && token.cells) {
       token.cells.unshift(token.header);
       token.text = token.cells
         .map(function(rows) {
