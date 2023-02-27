@@ -131,7 +131,7 @@
       -  [4.姿态转换实战](humble/chapt6/get_started/4.姿态转换实战.md) 
       -  [5.齐次坐标变换](humble/chapt6/get_started/5.齐次坐标变换.md) 
       -  [6.齐次坐标变换实战](humble/chapt6/get_started/6.齐次坐标变换实战.md) 
-      -  [7.机器人运行学介绍](humble/chapt6/get_started/7.机器人运行学介绍.md) 
+      -  [7.机器人运行学介绍](humble/chapt6/get_started/7.机器人运动学介绍.md) 
       <!-- - 两轮差速运动学 -->
       <!-- - 机械臂运动学 -->
       
