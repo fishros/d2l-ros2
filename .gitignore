@@ -78,3 +78,5 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+docs/main.md
