@@ -40,7 +40,7 @@
   - 第 2 章 ROS2第一个节点
     - [章节导读](humble/chapt2/章节导读.md) 
     - 基础篇-编程基础
-      -  [1.使用g++编译ROS2节点](humble/chapt2/basic/1.使用g++编译ROS2节点.md) 
+      -  [1.使用gcc编译ROS2节点](humble/chapt2/basic/1.使用g++编译ROS2节点.md) 
       -  [2.使用make编译ROS2节点](humble/chapt2/basic/2.使用make编译ROS2节点.md) 
       -  [3.使用CMakeLists.txt编译ROS2节点](humble/chapt2/basic/3.使用CMakeLists.txt编译ROS2节点.md) 
       -  [4.CMake依赖查找流程](humble/chapt2/basic/4.CMake依赖查找流程.md) 
@@ -244,7 +244,7 @@
       - [2.使用开源库驱动IMU](humble/chapt13/advance/2.使用开源库驱动IMU.md)
       - [3.学会面向对象编程-封装IMU驱动](humble/chapt13/advance/3.学会面向对象编程-封装IMU驱动.md)
       - [4.使用开源库驱动OLED](humble/chapt13/advance/4.使用开源库驱动OLED.md)
-      - [5.通讯协议小课堂-I2C通信](humble/chapt13/advance/5.通讯协议小课堂-I2C通信)
+      - [5.通讯协议小课堂-I2C通信](humble/chapt13/advance/5.通讯协议小课堂-I2C通信.md)
       - [6.I2C通信实验-点亮OLED](humble/chapt13/advance/6.I2C通信实验-点亮OLED.md)
   - 第 14 章 接入ROS2-MicroROS
     - [章节导读](humble/chapt14/章节导读.md)  

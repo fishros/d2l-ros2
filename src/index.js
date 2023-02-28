@@ -20,7 +20,7 @@ const uglified = uglify.minify(jsFiles.map(file => fs.readFileSync(file, 'utf8')
 fs.writeFileSync(path.resolve(__dirname, '../resources/js/all.js'), uglified.code)
 
 const defaultConfig = {
-  pathToStatic: 'docs/static',
+  pathToStatic: 'docs/temp',
   mainMdFilename: 'main.md',
   pathToPublic: process.env.PDF_OUTPUT_NAME ? path.join('./pdf/', process.env.PDF_OUTPUT_NAME) : './pdf/DOC.pdf',
   contents: 'docs/_sidebar.md',
