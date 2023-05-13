@@ -40,7 +40,7 @@
     - 基础篇-中间件与面向对象基础
       -  [1.从底层理解通信](humble/chapt3/basic/1.从底层理解通信.md) 
       -  [2.通信中间件之ZMQ](humble/chapt3/basic/2.通信中间件之ZMQ.md)
-      -  [3.多线程回调函数和锁](humble/chapt3/basic/3.多线程回调函数和锁.md) 
+      <!-- -  [3.多线程回调函数和锁](humble/chapt3/basic/3.多线程回调函数和锁.md)  -->
     - 入门篇-话题与服务
       -  [1.ROS2话题入门](humble/chapt3/get_started/1.ROS2话题入门.md) 
       -  [2.话题之RCLCPP实现](humble/chapt3/get_started/2.话题之RCLCPP实现.md) 
@@ -89,11 +89,11 @@
       -  [5.数据录播工具-rosbag](humble/chapt5/get_started/5.数据录播工具-rosbag.md) 
       -  [6.兼容仿真工具-Gazebo](humble/chapt5/get_started/6.兼容仿真工具-Gazebo.md) 
     - 进阶篇-工具进阶
-      - 1.RVIZ2插件开发实践
+      <!-- - 1.RVIZ2插件开发实践
       - 2.RQT插件开发实践
       - 3.兼容仿真工具WeBots
       - 4.兼容仿真工具UnityForROS2
-      - 5.ROS2内存管理工具
+      - 5.ROS2内存管理工具 -->
 - （二）机器人学篇
   - 第 6 章 运动学基础
     - 章节导读
@@ -134,8 +134,8 @@
   - 第 8 章 机器人建模
     - [章节导读](humble/chapt8/章节导读.md) 
     - 基础篇-概念
-      - 1.常见机器人构型
-      - 2.常见建模软件及工具
+      <!-- - 1.常见机器人构型 -->
+      <!-- - 2.常见建模软件及工具 -->
     - 入门篇-机器人建模
       -  [1.URDF统一机器人建模语言](humble/chapt8/get_started/1.URDF统一机器人建模语言.md) 
       -  [2.RVIZ2可视化URDF模型](humble/chapt8/get_started/2.RVIZ2可视化URDF模型.md) 
@@ -144,11 +144,11 @@
       - <!-- - 创建一个机械臂模型 -->
         <!-- - 机械臂可视化及关节控制 -->
     - 进阶篇-其他建模方式
-      - Xacro介绍
+      <!-- - Xacro介绍
       - 使用Xacro简化机器人模型
       - RVIZ2可视化机器人模型原理
       - SolidWorks导出URDF
-      - 机械臂建模之DH参数
+      - 机械臂建模之DH参数 -->
 
   - 第 9 章 机器人仿真
     - 章节导读
@@ -182,7 +182,7 @@
   - 第 11 章 Nav2导航仿真实战
     - 章节导读
     - 基础篇-基础知识
-      - 1.行为树是什么
+      <!-- - 1.行为树是什么 -->
     - 入门篇-Nav2导航入门
       -  [1.Nav2导航框架介绍](humble/chapt11/get_started/1.Nav2导航框架介绍.md) 
       -  [2.为FishBot配置Nav2](humble/chapt11/get_started/2.为FishBot配置Nav2.md) 
@@ -194,7 +194,7 @@
   - 第 12 章 Nav2进阶实践
     - 章节导读
     - 基础篇-路径搜索
-      - 1.路径搜索搜索之A星算法-待更新
+      <!-- - 1.路径搜索搜索之A星算法-待更新 -->
     - 入门篇-自定义Nav2插件
       <!-- -  [1.Nav2插件介绍](humble/chapt12/get_started/1.Nav2插件介绍.md)  -->
       <!-- -  [2.自定义规划器插件](humble/chapt12/get_started/2.自定义规划器插件.md)  -->
@@ -262,13 +262,13 @@
     - [12.实时速度计算-运动学正解](humble/chapt16/12.实时速度计算-运动学正解.md)
     - [13.目标速度控制-运动学逆解](humble/chapt16/13.目标速度控制-运动学逆解.md)
     - [14.里程计计算-速度积分](humble/chapt16/14.里程计计算-速度积分.md)
-    - 15.可视化里程计-发布Odometry
+    <!-- - 15.可视化里程计-发布Odometry
     - 16.完善数据-上位机时间同步
     - 17.优化服务-源码编译Agent
-    - 18.控制系统总结-论一个合格的底盘
+    - 18.控制系统总结-论一个合格的底盘 -->
     
-  - 第 17 章 FishBot建图与导航实现
-    - 章节导读
+  <!--  - 第 17 章 FishBot建图与导航实现
+   - 章节导读
     - FishBot建图实现
       - 1.可视化雷达点云-学会驱动雷达
       - 2.Cartographer安装与配置
@@ -288,9 +288,9 @@
     - 3.纯追踪控制器介绍
     - 4.纯追踪控制器代码实现
     - 5.自定义代价地图导航
-    - 6.超声波数据发布
+    - 6.超声波数据发布 -->
 - （七）Moveit2机械臂篇
-  - 第 19 章 Moveit2仿真
+  <!-- - 第 19 章 Moveit2仿真
     - 章节导读
     - 基础篇-运动学
       - 机械臂正逆运动学
@@ -323,7 +323,7 @@
       - 自制机械臂控制及ROS2Control配置
       - 使用Moveit2控制真实机械臂
     - 进阶篇-实战演练
-      - 使用真实机械臂完成抓取
+      - 使用真实机械臂完成抓取 -->
 - [ROS 2常用代码模板](humble/codebook/README.md)
   - rclcpp
     -  [节点](humble/codebook/rclcpp/nodes.md) 
