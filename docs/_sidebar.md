@@ -251,39 +251,22 @@
 - （六）FishBot移动机器人开发篇
   - 第 16 章 移动机器人控制系统搭建
     - [章节导读](humble/chapt16/章节导读.md)
-    
     - [1.移动机器人底盘结构介绍](humble/chapt16/1.移动机器人底盘结构介绍.md)
-    
     - [2.从H桥说起-电机驱动原理介绍](humble/chapt16/2.从H桥说起-电机驱动原理介绍.md)
-    
     - [3.电机控制之正反转实验](humble/chapt16/3.电机控制之正反转实验.md)
-    
     - [4.电机控制之速度控制实验](humble/chapt16/4.电机控制之速度控制实验.md)
-    
     - [5.电机控制之使用开源库驱动多路电机](humble/chapt16/5.电机控制之使用开源库驱动多路电机.md)
-    
     - [6.做个遥控车-订阅ROS2Twist](humble/chapt16/6.做个遥控车-订阅ROS2Twist.md)
-    
     - [7.从编码器说起-速度测量原理介绍](humble/chapt16/7.速度测量-学会使用编码器.md)
-    
     - [8.脉冲测量与校准实验](humble/chapt16/8.脉冲测量与校准实验.md)
-    
     - [9.速度转换-机器人最大速度测量](humble/chapt16/9.速度转换-机器人最大速度测量.md)
-    
     - [10.控制速度-PID控制器实现](humble/chapt16/10.控制速度-PID控制器实现.md)
-    
     - [11.两轮差速运动学介绍](humble/chapt16/11.两轮差速运动学介绍.md)
-    
     - [12.实时速度计算-运动学正解](humble/chapt16/12.实时速度计算-运动学正解.md)
-    
     - [13.目标速度控制-运动学逆解](humble/chapt16/13.目标速度控制-运动学逆解.md)
-    
     - [14.里程计计算-速度积分](humble/chapt16/14.里程计计算-速度积分.md)
-    
     - [15.采用MicroROS发布里程计.md](humble/chapt16/15.采用MicroROS发布里程计.md)
-    
     - [16.项目总结与扩展](humble/chapt16/16.项目总结与扩展.md)
-    
     - [17.优化服务-源码编译Agent](humble/chapt16/17.拓展-源码编译Agent.md)
     
   - 第 17 章 FishBot建图与导航实现
@@ -297,29 +280,27 @@
       - [6.地图保存与编辑](humble/chapt17/slam/6.地图保存与编辑.md)
     - FishBot导航实现
       - [1.Nav2介绍与安装](humble/chapt17/navigation/1.Nav2介绍与安装.md)
-      - [2.配置 Navigation 2 参数](humble/chapt17/navigation/2.配置 Navigation 2 参数.md)
-      - [3.编写 Launch 并启动导航](humble/chapt17/navigation/3.编写 Launch 并启动导航.md)
+      - [2.配置Navigation2参数](humble/chapt17/navigation/2.配置Navigation2参数.md)
+      - [3.编写Launch 并启动导航](humble/chapt17/navigation/3.编写Launch并启动导航.md)
       - [4.进行单点与路点导航](humble/chapt17/navigation/4.进行单点与路点导航.md)
     
   - 第 18 章 移动机器人导航进阶
     - [章节导读](humble/chapt18/章节导读.md)
-    
     - [1.使用API进行导航](humble/chapt18/1.使用API进行导航.md)
-    
-      <!-- 2.自定义控制器介绍
-    
+
+
+    <!-- - 2.自定义控制器介绍
     - 3.纯追踪控制器介绍
-    
     - 4.纯追踪控制器代码实现
-    
     - 5.自定义代价地图导航
-    
-    - 6.超声波数据发布  -->
+    - 6.超声波数据发布 -->
   
 - （七）Moveit2机械臂篇
+  - 章节导读
+
+  
   <!-- - 第 19 章 Moveit2仿真
   
-    - 章节导读
     - 基础篇-运动学
       - 机械臂正逆运动学
     - 入门篇-Moveit2仿真
