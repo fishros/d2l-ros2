@@ -288,29 +288,37 @@
     
   - 第 17 章 FishBot建图与导航实现
     - 章节导读
-    
     - FishBot建图实现
-      - 1.可视化雷达点云-学会驱动雷达
-      - 2.建图前准备-发布odom的TF
-      - 3.使用SLAM_TOOLBOX完成建图
-      - 4.地图保存与编辑
-      - 5.拓展了解ROS标准REP105
+      - [1.可视化雷达点云-学会驱动雷达](humble/chapt17/slam/1.可视化雷达点云-学会驱动雷达.md)
+      - [2.建图前准备1-了解ROS标准REP105](humble/chapt17/slam/2.建图前准备1-了解ROS标准REP105.md)
+      - [3.建图前准备2-发布odom的TF](humble/chapt17/slam/3.建图前准备2-发布odom的TF.md)
+      - [4.建图前准备3-准备URDF](humble/chapt17/slam/4.建图前准备3-准备URDF.md)
+      - [5.使用SLAM_TOOLBOX完成建图](humble/chapt17/slam/5.使用SLAM_TOOLBOX完成建图.md)
+      - [6.地图保存与编辑](humble/chapt17/slam/6.地图保存与编辑.md)
     - FishBot导航实现
-      - 1.Nav2介绍与安装
-      - 2.Nav2地图导入与配置
-      - 3.单点多点导航测试
+      - [1.Nav2介绍与安装](humble/chapt17/navigation/1.Nav2介绍与安装.md)
+      - [2.配置 Navigation 2 参数](humble/chapt17/navigation/2.配置 Navigation 2 参数.md)
+      - [3.编写 Launch 并启动导航](humble/chapt17/navigation/3.编写 Launch 并启动导航.md)
+      - [4.进行单点与路点导航](humble/chapt17/navigation/4.进行单点与路点导航.md)
     
   - 第 18 章 移动机器人导航进阶
-    - 章节导读
-    - 1.使用API进行导航
-    - 2.自定义控制器介绍
+    - [章节导读](humble/chapt18/章节导读.md)
+    
+    - [1.使用API进行导航](humble/chapt18/1.使用API进行导航.md)
+    
+      <!-- 2.自定义控制器介绍
+    
     - 3.纯追踪控制器介绍
+    
     - 4.纯追踪控制器代码实现
+    
     - 5.自定义代价地图导航
-    - 6.超声波数据发布 
+    
+    - 6.超声波数据发布  -->
   
 - （七）Moveit2机械臂篇
   <!-- - 第 19 章 Moveit2仿真
+  
     - 章节导读
     - 基础篇-运动学
       - 机械臂正逆运动学
@@ -322,7 +330,7 @@
       - 给机械臂添加夹爪控制器
     - 进阶篇-架构
       - Moveit2架构剖析
-
+  
   - 第 20 章 Moveit2进阶
     - 章节导读
     - 基础篇-算法
@@ -333,7 +341,7 @@
       - 自定义运动学求解器
     - 进阶篇-实战演练
       - 暂定
-
+  
   - 第 21 章 Moveit2真机控制
     - 章节导读
     - 基础篇-动力学
