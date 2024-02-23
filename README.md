@@ -1,6 +1,6 @@
 # 动手学ROS2
 
-各位同学大家好，我是小鱼，从今天开始就和小鱼一起动手学习机器人、学习ROS2。
+各位同学大家好，我是小鱼，从今天开始就和小鱼一起动手学习机器人、学习ROS 2。
 
 
 > 小鱼录制的配套视频地址:<iframe height="400" width="600" src="//player.bilibili.com/player.html?aid=764419101&bvid=BV1gr4y1Q7j5&cid=448791033&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="false"> </iframe>
